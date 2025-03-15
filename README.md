@@ -12,7 +12,6 @@ A real-time drone detection and tracking system using YOLO object detection and 
 - 📡 Multiple tracker support (BOOSTING, MIL, KCF, CSRT, etc.)
 - 📏 Real-time distance approximation
 - 📐 Angle calculation relative to frame center
-- 📊 On-screen telemetry overlay
 - 🎥 Video processing with configurable resolution
 - ✈️ MAVLink integration for drone communication (commented out)
 - ⚙️ Highly configurable through `config.py`
