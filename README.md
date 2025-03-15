@@ -42,7 +42,7 @@ Install dependencies:
 |-------------------------|--------------------------------------|---------------------|
 | `MODEL_PATH`            | Path to YOLO model                   | Required            |
 | `VIDEO_PATH`            | Input video path                     | Required            |
-| `TRACKER_TYPE`          | Tracking algorithm                   | "CSRT"              |
+| `TRACKER_TYPE`          | Tracking algorithm                   | "MOSSE"              |
 | `DETECTION_INTERVAL`    | Frames between detections            | 30                  |
 | `MAX_ALLOWED_RES`       | Maximum processing resolution        | 1280                |
 | `CROP_CENTER`           | Enable center cropping               | False               |
