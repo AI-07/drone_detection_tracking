@@ -1,0 +1,4 @@
+opencv_contrib_python==4.11.0.86
+opencv_python==4.9.0.80
+pymavlink==2.4.43
+ultralytics==8.3.86
