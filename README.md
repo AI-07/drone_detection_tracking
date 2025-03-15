@@ -25,14 +25,15 @@ A real-time drone detection and tracking system using YOLO object detection and 
 
 Install dependencies:
 
+Running the following command in the terminal:
 `pip3 install -r requirements.txt`
 
 
 ## Quick Start
 
 1. Clone the repository
-2. Configure `config.py`:
-3. Run `main.py`
+2. Configure `config.py`
+3. Run `main.py` by running `python3 main.py` in the RPi terminal.
 
 
 ## Configuration Guide (`config.py`)
